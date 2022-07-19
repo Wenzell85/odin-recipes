@@ -1,0 +1,17 @@
+body {
+    background-color: beige;
+}
+
+img {
+    width: 750px;
+    height: 500px;
+}
+
+#home-img {
+    width: 750px;
+    height: 250px;
+}
+
+h1, h3, h4, li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
