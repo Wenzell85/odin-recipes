@@ -12,6 +12,6 @@ img {
     height: 250px;
 }
 
-h1, h3, h4, li {
+h1, h3, h4, li, a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
